@@ -31,14 +31,14 @@ const App = () => {
     }
   };
 
-  // if(data.erro == true) {
-  //   toast("Cep não encontrado.", {
-  //     theme: "dark",
-  //     icon: "⚠️",
-  //   });
+  if (error) {
+    toast("Erro ao buscar os dados, tente novamente mais tarde.", {
+      theme: "dark",
+      icon: "⚠️",
+    });
 
-  //   // return;
-  // }
+    dispatch(resetData());
+  }
 
   if (data !== null && data.erro !== true) {
     return (
