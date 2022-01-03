@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/viacep-redux/static/css/main.82152420.css",
+    "main.js": "/viacep-redux/static/js/main.6ad00643.js",
+    "static/media/success.svg": "/viacep-redux/static/media/success.057690c689fbecf7e95658e8e15e7f25.svg",
+    "static/media/directions.svg": "/viacep-redux/static/media/directions.479493b0cb29d7d1f645897c9ac32c59.svg",
+    "index.html": "/viacep-redux/index.html",
+    "main.82152420.css.map": "/viacep-redux/static/css/main.82152420.css.map",
+    "main.6ad00643.js.map": "/viacep-redux/static/js/main.6ad00643.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82152420.css",
+    "static/js/main.6ad00643.js"
+  ]
+}
