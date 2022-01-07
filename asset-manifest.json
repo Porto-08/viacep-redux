@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/viacep-redux/static/css/main.9637fe0d.css",
-    "main.js": "/viacep-redux/static/js/main.25e74d9d.js",
+    "main.css": "/viacep-redux/static/css/main.934c0c06.css",
+    "main.js": "/viacep-redux/static/js/main.5e920db8.js",
     "static/media/success.svg": "/viacep-redux/static/media/success.057690c689fbecf7e95658e8e15e7f25.svg",
     "static/media/directions.svg": "/viacep-redux/static/media/directions.479493b0cb29d7d1f645897c9ac32c59.svg",
     "index.html": "/viacep-redux/index.html",
-    "main.9637fe0d.css.map": "/viacep-redux/static/css/main.9637fe0d.css.map",
-    "main.25e74d9d.js.map": "/viacep-redux/static/js/main.25e74d9d.js.map"
+    "main.934c0c06.css.map": "/viacep-redux/static/css/main.934c0c06.css.map",
+    "main.5e920db8.js.map": "/viacep-redux/static/js/main.5e920db8.js.map"
   },
   "entrypoints": [
-    "static/css/main.9637fe0d.css",
-    "static/js/main.25e74d9d.js"
+    "static/css/main.934c0c06.css",
+    "static/js/main.5e920db8.js"
   ]
 }
