@@ -16,10 +16,9 @@ Aplicação para consulta de CEPs do Brasil inteiro! Realizada com Redux para fi
 
 ## Instalação do Projeto
 - yarn 
-- yarn start
 
 ## Rodar Projeto
-- yarn dev
+- yarn start
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
